@@ -1,0 +1,26 @@
+[
+    {
+        "id": 3,
+        "nombre": "lomas",
+        "correo": "correo no exise",
+        "clave": "123",
+        "id_perfil": 456,
+        "perfil": "est"
+    },
+    {
+        "id": 5,
+        "nombre": "banfield",
+        "correo": "correo no exise",
+        "clave": "123",
+        "id_perfil": 456,
+        "perfil": "est"
+    },
+    {
+        "id": -1,
+        "nombre": "Fra",
+        "correo": "utn2023@gmail.com",
+        "clave": "Fra2023",
+        "id_perfil": -1,
+        "perfil": ""
+    }
+]
